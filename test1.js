@@ -1,4 +1,4 @@
-const DVideo = artifacts.require('./DVideo.sol')
+const DVideo = artifacts.require('./skillVideo.sol')
 
 require('chai')
   .use(require('chai-as-promised'))
